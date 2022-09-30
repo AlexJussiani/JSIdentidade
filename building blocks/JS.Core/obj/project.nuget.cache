@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5TVlJdQbThhdn3FsjXYnQtxqSkKm13cyP6XYY1I1M9QVbXducgnWJLUP/PrqCDr2r4wm9gYUvRfXBfsNd2CcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\PROJETOS\\JussSoftware\\src\\Services\\JsIdentidade\\building blocks\\JS.Core\\JS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netdevpack\\5.3.2\\netdevpack.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
