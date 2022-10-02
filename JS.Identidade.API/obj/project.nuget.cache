@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Xp+wLJyDnSpfqY62pVBbvefFsdqGodTn14ZLRC276LFnMxXp2hZF3Z3tSGD9Xxmy1mUl0tR+Und9/GqkGnWh9w==",
+  "dgSpecHash": "N6hZxRIcaLs3qbE+JRk6nWD0pHr7wNoAwp3XkPLSmYeAoMwoKJjYfC3XA2j94kOLwmEIx97mb0VGLxaKs+9lhw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Documents\\PROJETOS\\JussSoftware\\src\\Services\\JsIdentidade\\JS.Identidade.API\\JS.Identidade.API.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
